@@ -1,0 +1,7 @@
+---
+anxs_hostname_packages:
+  - dbus
+  - policykit-1
+anxs_hostname_mdns_packages:
+  - avahi-daemon
+  - libnss-mdns
